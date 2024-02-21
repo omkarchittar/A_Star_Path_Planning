@@ -1,7 +1,7 @@
 # A* Path Planning
 Project by: 
 
-###Omkar Chittar(ochittar, 119193556) and Rohan Maan(rmaan, 119061770)###
+### Omkar Chittar(ochittar, 119193556) and Rohan Maan(rmaan, 119061770) ###
 
 
 
