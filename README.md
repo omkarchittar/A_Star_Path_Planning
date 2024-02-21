@@ -1,11 +1,9 @@
 # A* Path Planning
 Project by: 
 
-Rohan Maan(rmaan, 119061770) 
+###Omkar Chittar(ochittar, 119193556) and Rohan Maan(rmaan, 119061770)###
 
-and 
 
-Omkar Chittar(ochittar, 119193556)
 
 Libraries used:
 1. cv2
